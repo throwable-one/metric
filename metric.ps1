@@ -1,4 +1,5 @@
-﻿# Lists interfaces, selects OpenVPN and asks you to set metric
+﻿# run under UAC (admin!)
+# Lists interfaces, selects OpenVPN and asks you to set metric
 # Set the metric to 1 to increase priority
 # Run script again to check settings were applied
 # Script is not signed, so call 
